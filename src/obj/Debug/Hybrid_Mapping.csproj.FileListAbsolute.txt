@@ -1,0 +1,19 @@
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Serial_Communication.Form1.resources
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Hybrid_Mapping.csproj.GenerateResource.cache
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Hybrid_Mapping.csproj.CoreCompileInputs.cache
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\bin\Debug\Hybird_Mapping.exe.config
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\bin\Debug\Hybird_Mapping.exe
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\bin\Debug\Hybird_Mapping.pdb
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Hybird_Mapping.Properties.Resources.resources
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Hybird_Mapping.exe
+C:\Users\sazaj\OneDrive\Documents\카카오톡 받은 파일\Hybrid_Mapping_MK-4\obj\Debug\Hybird_Mapping.pdb
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\bin\Debug\Hybird_Mapping.exe.config
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\bin\Debug\Hybird_Mapping.exe
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\bin\Debug\Hybird_Mapping.pdb
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybrid_Mapping.csproj.AssemblyReference.cache
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Serial_Communication.Form1.resources
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybird_Mapping.Properties.Resources.resources
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybrid_Mapping.csproj.GenerateResource.cache
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybrid_Mapping.csproj.CoreCompileInputs.cache
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybird_Mapping.exe
+D:\Workspace_Win\HYBRID_RS232_TEST\Hybrid_Mapping_MK-6\obj\Debug\Hybird_Mapping.pdb
